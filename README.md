@@ -1,1 +1,1 @@
-# Sign-up-form
+# Riot MMO sign-up page
